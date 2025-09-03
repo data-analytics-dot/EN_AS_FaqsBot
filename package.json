@@ -1,0 +1,33 @@
+{
+  "name": "faqsbot",
+  "version": "1.0.0",
+  "description": "",
+  "types": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/data-analytics-dot/EN_AS_FaqsBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/data-analytics-dot/EN_AS_FaqsBot/issues"
+  },
+  "homepage": "hhttps://github.com/data-analytics-dot/EN_AS_FaqsBot#readme",
+  "dependencies": {
+    "@codahq/packs-sdk": "^1.3.0",
+    "@slack/bolt": "^4.4.0",
+    "@slack/events-api": "^3.0.1",
+    "@slack/web-api": "^7.10.0",
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^5.15.0"
+  }
+}

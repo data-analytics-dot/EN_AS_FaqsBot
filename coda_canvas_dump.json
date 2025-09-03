@@ -1,0 +1,34 @@
+[
+  {
+    "rowId": "i-mqkEwi5wE-",
+    "values": {
+      "Question": "My OCD is incomplete with this “specific project”, which is the reason that I can’t submit my OCD to finance.",
+      "Next Step": "For AI Project\nCoordinate with your Project Manager (PM) to confirm whether the payout has been forwarded to the finance team.\nIf the payout has been submitted, check the Payout Record Sheet for the status \"transferred\" in the Finance Record Column.\nIf \"transferred\" is indicated, promptly inform  /    for further assistance.\n\nFor OPS Project\nFirst, refer to the Internal Sheet Summary to confirm whether your project is submitted and on the list.\nIf not submitted, promptly notify your Project Manager (PM)/ LA and ensure the correct cutoff date is specified when the POIT is submitted.\nIf listed, proceed to the next step.\nVerify the cutoff date of the POIT in the Output Tracker to ensure its the correct cut off\nIf the cutoff date matches, proceed to the next stage.\nNotify  for support.\nIf the cutoff date is incorrect, immediately rectify it and update the correct date.\nFollowing verification, allow a one-hour window for our OCD to execute the re-extraction process.",
+      "Select list": "Output Compensation Database"
+    }
+  },
+  {
+    "rowId": "i-7N7AbLCS12",
+    "values": {
+      "Question": "My project management task has missing details. Not all of my time is reflected in my OCD.",
+      "Next Step": "In your Project Management Tracker:\nMake sure that PMs have ticked the checkbox for “Approved” in column L (Output Tracker 2 tab)\nThey should also tag the status as “Approved” in column F (Project Management tab)",
+      "Select list": "Output Compensation Database"
+    }
+  },
+  {
+    "rowId": "i-VRQOAryUpE",
+    "values": {
+      "Question": "I haven’t received by Payout Breakdown",
+      "Next Step": "Team members are required to submit a support request form, ensure that they include the cutoff date for the payout breakdown they have not yet received.\nThe community manager will review each request, ensuring that all necessary data from the team is provided, and then assign them to the correct point of contact (POC).\n\n",
+      "Select list": "Payout Breakdown"
+    }
+  },
+  {
+    "rowId": "i-NQ87q4PoTI",
+    "values": {
+      "Question": "What is the status of my payout?",
+      "Next Step": "Here's a step-by-step guide to handling Payout Submissions for DA/LA OCD:\nNavigate to the New Payout Submission Tracker tab:\nThis tab contains all the necessary information related to payout submissions.\nSearch for the DA/LA Name:\nUse the search function to locate the specific DA/LA whose payout submission you need to review.\nCheck column E for Payment Status:\nThis column indicates the current status of the payment submission.\nIf the status is \"Paid\":\nInform the DA/LA about the date their payout was processed for sending, located in column I.\nIf the status is \"Resubmission 1\", \"Resubmission 2\", or \"Final Resubmission\":\nInform the Analyst that they need to submit the correct payout comments, which can be found in Column G.\nIf the status is \"Pending\":\nInform the DA/LA that their payout is pendeing and provide them with their cue number, which can be found in column F.\n",
+      "Select list": "Payout"
+    }
+  }
+]
